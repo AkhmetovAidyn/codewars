@@ -1,8 +1,8 @@
-// DESCRIPTION:
+// ❓ DESCRIPTION:
 //     This code does not execute properly. Try to figure out why.
 
 
-// SOLUTION:
+// ✔️ SOLUTION:
 
 multiply = function (a, b) {
     return a * b;
