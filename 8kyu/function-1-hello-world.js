@@ -6,8 +6,7 @@
 // Sure, this is about as easy as it gets.
 // But how clever can you be to create the most creative "hello world" you can think of?
 // What is a "hello world" solution you would want to show your friends?
-
-
+// hello world
 
 // ✔️ SOLUTION:
 
@@ -28,5 +27,3 @@ function greet() {
         .map(function(n) { return {0: ' ', 60: '!', 136: 'l', 150: 'o', 160: 'r', 162: 'd', 166: 'e', 177: 'h', 205: 'w'}[n]; })
         .join('');
 }
-
-console.log(greet());
