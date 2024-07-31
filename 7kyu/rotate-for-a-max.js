@@ -26,7 +26,6 @@
 
 // ✔️ SOLUTION:
 
-
 function maxRot(n) {
     let str = n.toString();
     let maxNum = n;
