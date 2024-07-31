@@ -14,7 +14,6 @@
 
 // ✔️ SOLUTION:
 
-
 function isPrime(num) {
     if (num < 2) return false;
     const limit = Math.sqrt(num);
