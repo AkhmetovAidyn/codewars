@@ -14,5 +14,10 @@
 // ✔️ SOLUTION:
 
 function makeNegative(num) {
-    return num > 0 ? -num : num;
+    // Code?
+    if (num > 0) {
+        return num = -num;
+    } else {
+        return num;
+    }
 }
