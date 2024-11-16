@@ -10,3 +10,4 @@
 // ✔️ SOLUTION:
 
 const STRANGE_STRING = "straße"
+
