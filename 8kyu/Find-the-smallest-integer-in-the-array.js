@@ -19,4 +19,4 @@ function findSmallestInt(arr) {
         }
     }
     return arrSmoll;
-}
+}   
